@@ -27,6 +27,6 @@ public class FlowAdminApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(FlowAdminApplication.class, args);
-        logger.info("###########################流程后台程序启动成功#################################");
+        logger.info("###########################流程后台程序启动成功##################################");
     }
 }
